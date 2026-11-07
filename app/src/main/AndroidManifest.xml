@@ -9,6 +9,8 @@
     <application
         android:allowBackup="false"
         android:label="Gamer Cloud PC"
+
+android:icon="@drawable/ic_gamer_cloud"
         android:theme="@android:style/Theme.Material.NoActionBar"
         android:usesCleartextTraffic="false">
 
